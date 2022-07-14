@@ -1,5 +1,4 @@
 # Bayesian Optimization with Cluster and Rollback for CNN Pruning
-(ECCV2022 paper open source repository)
 
 ## Use BOCR:
   First, softlink imagenet2012 dataset to ./dataset: 
